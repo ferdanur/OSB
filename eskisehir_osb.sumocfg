@@ -1,0 +1,10 @@
+<configuration>
+  <input>
+    <net-file value="eskisehir_osb.net.xml"/>
+    <route-files value="eskisehir_osb.rou.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="3600"/>
+  </time>
+</configuration>
